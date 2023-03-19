@@ -1,0 +1,924 @@
+{
+    "locations": [
+        {
+            "name": "Grow Eco Farm",
+            "latitude": 32.55822,
+            "longitude": -117.08415
+        },
+        {
+            "name": "Tzaddik Farm",
+            "latitude": 32.75412,
+            "longitude": -116.6745
+        },
+        {
+            "name": "True Pasture Beef",
+            "latitude": 32.84281,
+            "longitude": -117.27505
+        },
+        {
+            "name": "The A's Brothers Ranch",
+            "latitude": 33.00151,
+            "longitude": -117.0335
+        },
+        {
+            "name": "EUSD",
+            "latitude": 33.0564152,
+            "longitude": -117.2786721
+        },
+        {
+            "name": "Page's Organics",
+            "latitude": 33.0753144,
+            "longitude": -116.8598081
+        },
+        {
+            "name": "Sand N Straw",
+            "latitude": 33.1817558,
+            "longitude": -117.2358964
+        },
+        {
+            "name": "Sage Hill Ranch Gardens",
+            "latitude": 33.1821816,
+            "longitude": -117.2358964
+        },
+        {
+            "name": "SonRise Ranch",
+            "latitude": 33.2694819,
+            "longitude": -117.2945202
+        },
+        {
+            "name": "Solidarity Farm",
+            "latitude": 33.3113454,
+            "longitude": -117.0070721
+        },
+        {
+            "name": "Sage Mountain Farm",
+            "latitude": 33.5551316,
+            "longitude": -116.6834195
+        },
+        {
+            "name": "Wild Willow Farm & Education Center",
+            "latitude": 32.8512492,
+            "longitude": -116.9383969
+        },
+        {
+            "name": "Quantum Microgreens",
+            "latitude": 32.7407572,
+            "longitude": -117.1017882
+        },
+        {
+            "name": "W.D. Dickinson - Farm",
+            "latitude": 32.668082,
+            "longitude": -117.0931152
+        },
+        {
+            "name": "Pixca Farm",
+            "latitude": 32.5580541,
+            "longitude": -117.0842785
+        },
+        {
+            "name": "The Grateful Farm",
+            "latitude": 32.712417,
+            "longitude": -116.8169036
+        },
+        {
+            "name": "Talking Oaks Ranch",
+            "latitude": 33.0027044,
+            "longitude": -116.9150257
+        },
+        {
+            "name": "San Diego Organic Farms",
+            "latitude": 33.0258823,
+            "longitude": -116.8589249
+        },
+        {
+            "name": "Black Mountain Farm",
+            "latitude": 33.0752823,
+            "longitude": -116.8671402
+        },
+        {
+            "name": "Second Chance",
+            "latitude": 32.7092058,
+            "longitude": -117.0657497
+        },
+        {
+            "name": "Kare Farms",
+            "latitude": 32.7927419,
+            "longitude": -117.1295245
+        },
+        {
+            "name": "Valley View Urban Farm",
+            "latitude": 32.742931,
+            "longitude": -117.0103074
+        },
+        {
+            "name": "Seeds in the City",
+            "latitude": 32.8513098,
+            "longitude": -117.2140175
+        },
+        {
+            "name": "Suzie's Farm",
+            "latitude": 32.5586832,
+            "longitude": -117.0790637
+        },
+        {
+            "name": "McFadden Ranch",
+            "latitude": 32.796447,
+            "longitude": -116.96229
+        },
+        {
+            "name": "A Simpler Time - Alpacas & Mil",
+            "latitude": 32.8093961,
+            "longitude": -116.8757077
+        },
+        {
+            "name": "Circle \"H\" Farm",
+            "latitude": 32.8178729,
+            "longitude": -116.8714438
+        },
+        {
+            "name": "White Mountains Ranch",
+            "latitude": 37.6151854,
+            "longitude": -118.3835953
+        },
+        {
+            "name": "Rancho Yobo Organics",
+            "latitude": 33.0202716,
+            "longitude": -117.2029014
+        },
+        {
+            "name": "Healing From The Ground Up CSA",
+            "latitude": 32.8310623,
+            "longitude": -116.8097835
+        },
+        {
+            "name": "Coral Tree Farm & Nursery",
+            "latitude": 33.0422536,
+            "longitude": -117.2783453
+        },
+        {
+            "name": "Hidden Haven Farms",
+            "latitude": 32.6789921,
+            "longitude": -116.7933556
+        },
+        {
+            "name": "Lucky Six Farms",
+            "latitude": 32.6389706,
+            "longitude": -116.7425233
+        },
+        {
+            "name": "Lemon Tree Gardens",
+            "latitude": 33.0737681,
+            "longitude": -117.0866374
+        },
+        {
+            "name": "Eben-Haezer's Happy Hens",
+            "latitude": 33.0088264,
+            "longitude": -116.8816674
+        },
+        {
+            "name": "Farm Stand West",
+            "latitude": 33.0930224,
+            "longitude": -117.0808685
+        },
+        {
+            "name": "Backyard Fish Farm",
+            "latitude": 33.044353,
+            "longitude": -116.864415
+        },
+        {
+            "name": "Kathy's Kitchen Garden",
+            "latitude": 32.6183697,
+            "longitude": -116.7401737
+        },
+        {
+            "name": "Be Wise Ranch Organic Farm",
+            "latitude": 33.0787961,
+            "longitude": -117.0337209
+        },
+        {
+            "name": "Fran's Original Farm Stand",
+            "latitude": 33.1074635,
+            "longitude": -117.0446941
+        },
+        {
+            "name": "Connelly Farms",
+            "latitude": 33.0363006,
+            "longitude": -116.8510258
+        },
+        {
+            "name": "Nichols Family Farm",
+            "latitude": 32.7987554,
+            "longitude": -116.6611145
+        },
+        {
+            "name": "Grebar Farms",
+            "latitude": 33.0685845,
+            "longitude": -116.8524775
+        },
+        {
+            "name": "Sage by the sea",
+            "latitude": 33.23802,
+            "longitude": -117.3225705
+        },
+        {
+            "name": "Figalicious",
+            "latitude": 33.0883993,
+            "longitude": -116.8474569
+        },
+        {
+            "name": "San Diego Fresh",
+            "latitude": 33.154687,
+            "longitude": -117.2089086
+        },
+        {
+            "name": "Coronado Certified Farmers Market",
+            "latitude": 32.6985282,
+            "longitude": -117.17004
+        },
+        {
+            "name": "City Heights Certified Farmers Market",
+            "latitude": 32.7402479,
+            "longitude": -117.1012279
+        },
+        {
+            "name": "Gaslamp Artisan Market",
+            "latitude": 32.7114762,
+            "longitude": -117.1599347
+        },
+        {
+            "name": "Hillcrest Certified Farmers' Market",
+            "latitude": 32.7506355,
+            "longitude": -117.1493659
+        },
+        {
+            "name": "Ocean Beach Certified Farmers' Market",
+            "latitude": 32.7459842,
+            "longitude": -117.2492908
+        },
+        {
+            "name": "Escondido Certified Farmers' Market",
+            "latitude": 33.1241298,
+            "longitude": -117.0793035
+        },
+        {
+            "name": "Oceanside Certified Farmers' Market",
+            "latitude": 33.1969841,
+            "longitude": -117.3802041
+        },
+        {
+            "name": "Borrego Springs Certified Farmers' Market",
+            "latitude": 33.2570027,
+            "longitude": -116.3741696
+        },
+        {
+            "name": "Vista Certified Farmers' Market",
+            "latitude": 33.1896848,
+            "longitude": -117.2541434
+        },
+        {
+            "name": "Del Mar Certified Farmers' Market",
+            "latitude": 32.9550707,
+            "longitude": -117.2639642
+        },
+        {
+            "name": "Poway Certified Farmers' Market",
+            "latitude": 32.9703272,
+            "longitude": -117.036638
+        },
+        {
+            "name": "La Jolla Certified Farmers' Market",
+            "latitude": 32.836900926957576,
+            "longitude": -117.27398024953519
+        },
+        {
+            "name": "UCSD Certified Farmers Market",
+            "latitude": 32.8782042,
+            "longitude": -117.2347226
+        },
+        {
+            "name": "Leucadia Certified Farmers' Market",
+            "latitude": 33.0578849,
+            "longitude": -117.2972701
+        },
+        {
+            "name": "Solana Beach Certified Farmers' Market",
+            "latitude": 32.9868854,
+            "longitude": -117.2689621
+        },
+        {
+            "name": "North Park Thursday Certified Farmers' Market",
+            "latitude": 32.7475809,
+            "longitude": -117.1307196
+        },
+        {
+            "name": "City Heights Certified Farmers' Market",
+            "latitude": 32.74757328010009,
+            "longitude": -117.08398046571848
+        },
+        {
+            "name": "Little Italy Mercato Certified Farmers' Market",
+            "latitude": 32.722821,
+            "longitude": -117.1669444
+        },
+        {
+            "name": "Otay Ranch Certified Farmers' Market",
+            "latitude": 32.6235944,
+            "longitude": -116.9660978
+        },
+        {
+            "name": "Santee Certified Farmers' Market",
+            "latitude": 32.8526376,
+            "longitude": -116.9999181
+        },
+        {
+            "name": "Mira Mesa Certified Farmers' Market",
+            "latitude": 32.91088,
+            "longitude": -117.1404074
+        },
+        {
+            "name": "Pacific Beach Tuesday Certified Farmers' Market",
+            "latitude": 32.7959197,
+            "longitude": -117.2532285
+        },
+        {
+            "name": "Carlsbad State Street Certified Farmers' Market",
+            "latitude": 33.1603928,
+            "longitude": -117.3496323
+        },
+        {
+            "name": "Rancho Santa Fe Certified Farmers' Market",
+            "latitude": 32.9903638,
+            "longitude": -117.1967499
+        },
+        {
+            "name": "Santa Ysabel Certified Farmers' Market",
+            "latitude": 33.109051,
+            "longitude": -116.6736283
+        },
+        {
+            "name": "San Marcos Certified Farmers' Market",
+            "latitude": 33.1346893,
+            "longitude": -117.1592317
+        },
+        {
+            "name": "Fallbrook S. Main Ave. Certified Farmers' Market",
+            "latitude": 33.3818014,
+            "longitude": -117.2517021
+        },
+        {
+            "name": "Welk Resorts Certified Farmers' Market",
+            "latitude": 33.2306403,
+            "longitude": -117.1419706
+        },
+        {
+            "name": "Scripps Ranch Certified Farmers' Market",
+            "latitude": 32.9032337,
+            "longitude": -117.1107362
+        },
+        {
+            "name": "Bernardo Winery Certified Farmers' Market",
+            "latitude": 33.0328032,
+            "longitude": -117.0465924
+        },
+        {
+            "name": "Linda Vista Certified Farmers' Market",
+            "latitude": 32.7841349,
+            "longitude": -117.1700969
+        },
+        {
+            "name": "Third Avenue Village Certified Farmers' Market",
+            "latitude": 32.6385244,
+            "longitude": -117.0789851
+        },
+        {
+            "name": "Mission Valley Certified Farmers' Market",
+            "latitude": 32.77878837740407,
+            "longitude": -117.1468262001872
+        },
+        {
+            "name": "La Mesa Village Certified Farmers' Market",
+            "latitude": 32.7651687,
+            "longitude": -117.0189608
+        },
+        {
+            "name": "Allen School Garden",
+            "latitude": 32.6560325,
+            "longitude": -117.0333714
+        },
+        {
+            "name": "Hilltop Drive",
+            "latitude": 32.6315389,
+            "longitude": -117.06428
+        },
+        {
+            "name": "Intergenerational Community Garden",
+            "latitude": 32.6194424,
+            "longitude": -117.0845034
+        },
+        {
+            "name": "Mosaic Community Garden of Chula Vista",
+            "latitude": 32.6157798,
+            "longitude": -117.0801678
+        },
+        {
+            "name": "Palomar Apartments Community Garden",
+            "latitude": 32.6084714,
+            "longitude": -117.060983
+        },
+        {
+            "name": "Salt Creek Elementary",
+            "latitude": 32.6478255,
+            "longitude": -116.9489641
+        },
+        {
+            "name": "Koinonia Garden",
+            "latitude": 32.5833827,
+            "longitude": -117.1233562
+        },
+        {
+            "name": "Mount Laguna Community Garden",
+            "latitude": 32.8620829,
+            "longitude": -116.4199339
+        },
+        {
+            "name": "Dickinson Farm",
+            "latitude": 32.6659484,
+            "longitude": -117.0863337
+        },
+        {
+            "name": "Mundo Gardens",
+            "latitude": 32.6892561,
+            "longitude": -117.0928039
+        },
+        {
+            "name": "Mundo Gardens Joe's Pocket Farm",
+            "latitude": 32.6892561,
+            "longitude": -117.0928039
+        },
+        {
+            "name": "Olivewood Gardens and Learning Center",
+            "latitude": 32.6652855,
+            "longitude": -117.0863479
+        },
+        {
+            "name": "Spring Valley Community Garden",
+            "latitude": 32.749093,
+            "longitude": -117.0028241
+        },
+        {
+            "name": "City of Carlsbad, Harold E. Smerdu Community Garden",
+            "latitude": 33.1654239,
+            "longitude": -117.3405996
+        },
+        {
+            "name": "Centella Street Community Garden",
+            "latitude": 33.0794852,
+            "longitude": -117.2394819
+        },
+        {
+            "name": "Calavera Schoolhouse Community Garden",
+            "latitude": 33.1660772,
+            "longitude": -117.2990865
+        },
+        {
+            "name": "VIM (Volunteers in Medicine)",
+            "latitude": 32.8000367,
+            "longitude": -116.92847
+        },
+        {
+            "name": "Circle Garden",
+            "latitude": 32.7904345,
+            "longitude": -116.9613518
+        },
+        {
+            "name": "New Roots Fresh Farm Community Garden",
+            "latitude": 32.7928898,
+            "longitude": -116.9795027
+        },
+        {
+            "name": "Magnolia School Community Garden",
+            "latitude": 32.8137161,
+            "longitude": -116.954201
+        },
+        {
+            "name": "Encinitas Community Garden",
+            "latitude": 33.0564152,
+            "longitude": -117.2786721
+        },
+        {
+            "name": "Ocean Knoll Farm",
+            "latitude": 33.0426931,
+            "longitude": -117.2725369
+        },
+        {
+            "name": "Solana Center for Environmental Innovation",
+            "latitude": 33.0487178,
+            "longitude": -117.2556681
+        },
+        {
+            "name": "Avocado Court Community Garden",
+            "latitude": 33.1398523,
+            "longitude": -117.0884911
+        },
+        {
+            "name": "Escondido Community Garden",
+            "latitude": 33.1467502,
+            "longitude": -117.0936306
+        },
+        {
+            "name": "Rainbow Valley Gardens",
+            "latitude": 33.4146365,
+            "longitude": -117.1491928
+        },
+        {
+            "name": "Julian Character Garden",
+            "latitude": 33.0782074,
+            "longitude": -116.5958242
+        },
+        {
+            "name": "Mesa Community Garden",
+            "latitude": 32.8782042,
+            "longitude": -117.2347226
+        },
+        {
+            "name": "Mt Soledad Giving Garden",
+            "latitude": 32.8359576,
+            "longitude": -117.2478012
+        },
+        {
+            "name": "UCSD ARCH Grad Student Housing Community Garden",
+            "latitude": 32.8718676,
+            "longitude": -117.2212062
+        },
+        {
+            "name": "Barona Road",
+            "latitude": 32.9234162,
+            "longitude": -116.8848554
+        },
+        {
+            "name": "Garden of Miracles",
+            "latitude": 32.8541783,
+            "longitude": -116.9193371
+        },
+        {
+            "name": "Buena Vista Nature Center",
+            "latitude": 33.1693063,
+            "longitude": -117.356744
+        },
+        {
+            "name": "Kelly St. Cooperative Garden",
+            "latitude": 33.1790231,
+            "longitude": -117.3508918
+        },
+        {
+            "name": "Ivey Ranch Park Community Garden",
+            "latitude": 33.2304338,
+            "longitude": -117.3174198
+        },
+        {
+            "name": "The Gardens at North River Road",
+            "latitude": 33.2460235,
+            "longitude": -117.3166146
+        },
+        {
+            "name": "Poway Valley Community Garden",
+            "latitude": 32.95445943269429,
+            "longitude": -117.03133025514525
+        },
+        {
+            "name": "Temple Adat Shalom- Interfaith Community Services Garden",
+            "latitude": 33.0024182,
+            "longitude": -117.0571182
+        },
+        {
+            "name": "The Backyard Produce Garden",
+            "latitude": 32.9944834,
+            "longitude": -117.0546837
+        },
+        {
+            "name": "Twin Peaks Middle School - Outdoor Learning Lab",
+            "latitude": 32.9789859,
+            "longitude": -117.029137
+        },
+        {
+            "name": "Ramona Community Garden",
+            "latitude": 33.0333053,
+            "longitude": -116.8655603
+        },
+        {
+            "name": "San Marcos Community Garden",
+            "latitude": 33.1518075,
+            "longitude": -117.1293012
+        },
+        {
+            "name": "Santee Edgemoor Community Garden",
+            "latitude": 32.8525718,
+            "longitude": -116.9748863
+        },
+        {
+            "name": "Happy Earth Gardens",
+            "latitude": 33.143166,
+            "longitude": -117.245388
+        },
+        {
+            "name": "Benito Juarez Community Garden",
+            "latitude": 33.20996211704042,
+            "longitude": -117.24818836479398
+        },
+        {
+            "name": "Casita Elementary's Peace Garden",
+            "latitude": 33.1901496,
+            "longitude": -117.2848477
+        },
+        {
+            "name": "Alta Vista Botanical Gardens",
+            "latitude": 33.2102522,
+            "longitude": -117.2198217
+        },
+        {
+            "name": "Vista High School FFA",
+            "latitude": 33.22253,
+            "longitude": -117.2409
+        },
+        {
+            "name": "Fallbrook Community Garden",
+            "latitude": 33.3631414,
+            "longitude": -117.2597613
+        },
+        {
+            "name": "Dr Andohs Urban Preservation Garden for Children",
+            "latitude": 32.727225,
+            "longitude": -117.1495059
+        },
+        {
+            "name": "Golden Hill Community Garden",
+            "latitude": 32.7195035,
+            "longitude": -117.1415074
+        },
+        {
+            "name": "Juniper Front Comminity Garden",
+            "latitude": 32.728938,
+            "longitude": -117.165336
+        },
+        {
+            "name": "Seeds@City Urban Farm",
+            "latitude": 32.718103470838585,
+            "longitude": -117.151358127594
+        },
+        {
+            "name": "Smarts Farm",
+            "latitude": 32.7135102,
+            "longitude": -117.1500127
+        },
+        {
+            "name": "The Village Community Garden",
+            "latitude": 32.7052897,
+            "longitude": -117.1485207
+        },
+        {
+            "name": "Mt Hope Community Garden",
+            "latitude": 32.711227,
+            "longitude": -117.103466
+        },
+        {
+            "name": "Altadena Community Pocket Garden",
+            "latitude": 32.7386859,
+            "longitude": -117.1248447
+        },
+        {
+            "name": "City Heights Community Garden",
+            "latitude": 32.7479692,
+            "longitude": -117.1023616
+        },
+        {
+            "name": "Hollywood Palms Resident Garden",
+            "latitude": 32.7291557,
+            "longitude": -117.1009944
+        },
+        {
+            "name": "New Roots Community Farm",
+            "latitude": 32.7430158,
+            "longitude": -117.0817163
+        },
+        {
+            "name": "PJAM Garden",
+            "latitude": 32.7240229,
+            "longitude": -117.078197
+        },
+        {
+            "name": "Ridgeview Community Garden",
+            "latitude": 32.7265681,
+            "longitude": -117.0972958
+        },
+        {
+            "name": "San Diego Peace Garden",
+            "latitude": 32.7284687,
+            "longitude": -117.1111759
+        },
+        {
+            "name": "Westminster Community Garden",
+            "latitude": 32.7231889,
+            "longitude": -117.2423084
+        },
+        {
+            "name": "Cabrillo Community Garden",
+            "latitude": 32.742811,
+            "longitude": -117.233932
+        },
+        {
+            "name": "Eat San Diego Bus Stop Garden",
+            "latitude": 32.751243,
+            "longitude": -117.2361184
+        },
+        {
+            "name": "OB Woman's Club Community Garden",
+            "latitude": 32.751403,
+            "longitude": -117.2474739
+        },
+        {
+            "name": "Ocean Beach Community Garden",
+            "latitude": 32.7483703,
+            "longitude": -117.2357668
+        },
+        {
+            "name": "Cass Street Community Garden",
+            "latitude": 32.8017825,
+            "longitude": -117.2529157
+        },
+        {
+            "name": "Pacific Beach Community Garden",
+            "latitude": 32.7911606,
+            "longitude": -117.2353159
+        },
+        {
+            "name": "Little Nile Gardens at Presidio Place",
+            "latitude": 32.763933,
+            "longitude": -117.1898418
+        },
+        {
+            "name": "Linda Vista Community Garden at Bayside",
+            "latitude": 32.7831674,
+            "longitude": -117.1727237
+        },
+        {
+            "name": "Mt. Everest Academy Garden",
+            "latitude": 32.8206373,
+            "longitude": -117.1867299
+        },
+        {
+            "name": "Ocean View Growing Grounds",
+            "latitude": 32.7007389,
+            "longitude": -117.0969534
+        },
+        {
+            "name": "Greely Gardens",
+            "latitude": 32.6986726,
+            "longitude": -117.1235487
+        },
+        {
+            "name": "Town and Country Community Garden",
+            "latitude": 32.7038181,
+            "longitude": -117.1059117
+        },
+        {
+            "name": "Amani Community Garden of Encanto",
+            "latitude": 32.716045,
+            "longitude": -117.0601207
+        },
+        {
+            "name": "The Glory Community Garden",
+            "latitude": 32.7078973,
+            "longitude": -117.0722498
+        },
+        {
+            "name": "Agape House Community Garden",
+            "latitude": 32.7723468,
+            "longitude": -117.0706624
+        },
+        {
+            "name": "College Area Community Garden",
+            "latitude": 32.7710387,
+            "longitude": -117.0654574
+        },
+        {
+            "name": "Urban Life Farms",
+            "latitude": 32.7538055,
+            "longitude": -117.0829273
+        },
+        {
+            "name": "Vera House Community Garden",
+            "latitude": 32.7705738,
+            "longitude": -117.1206365
+        },
+        {
+            "name": "San Carlos Community Garden",
+            "latitude": 32.7988419,
+            "longitude": -117.0187382
+        },
+        {
+            "name": "Spreckels School Garden",
+            "latitude": 32.8498174,
+            "longitude": -117.212744
+        },
+        {
+            "name": "Serra Mesa Community Garden and Orchard",
+            "latitude": 32.792961,
+            "longitude": -117.1260223
+        },
+        {
+            "name": "TLC Community Giving Garden",
+            "latitude": 32.8305192,
+            "longitude": -117.0863229
+        },
+        {
+            "name": "Mira Mesa Presbyterian Church Community Garden",
+            "latitude": 32.9114849,
+            "longitude": -117.149638
+        },
+        {
+            "name": "Design39 Edible Garden",
+            "latitude": 33.0179151,
+            "longitude": -117.1226189
+        },
+        {
+            "name": "Monterey Ridge Elementary/Monarch Gardens",
+            "latitude": 33.0270305,
+            "longitude": -117.1089612
+        },
+        {
+            "name": "Black Mountain Middle School Garden",
+            "latitude": 32.9691179,
+            "longitude": -117.1257738
+        },
+        {
+            "name": "Los Penasquitos Gardens",
+            "latitude": 32.9408644,
+            "longitude": -117.1331557
+        },
+        {
+            "name": "Rolling Hills Elementary Literacy Garden",
+            "latitude": 32.9901866,
+            "longitude": -117.0924293
+        },
+        {
+            "name": "St. Tim's Community Garden",
+            "latitude": 32.9596379,
+            "longitude": -117.106778
+        },
+        {
+            "name": "Tijuana River Valley Community Garden",
+            "latitude": 32.5556396,
+            "longitude": -117.0842764
+        },
+        {
+            "name": "UCSD Senior Behavioral Health Healing Garden",
+            "latitude": 32.7541809,
+            "longitude": -117.1658932
+        },
+        {
+            "name": "Richard J. Donovan Su Casa Community Garden",
+            "latitude": 32.5813758,
+            "longitude": -116.9291268
+        },
+        {
+            "name": "Lake Elsinore Community Garden",
+            "latitude": 33.7008328,
+            "longitude": -117.3234216
+        },
+        {
+            "name": "Ellie's Garden",
+            "latitude": 32.88562950853335,
+            "longitude": -117.24352494538628
+        },
+        {
+            "name": "Community Art Terrace",
+            "latitude": 32.8806902614377,
+            "longitude": -117.2430923645877
+        },
+        {
+            "name": "Marshall Community Garden",
+            "latitude": 32.8823936142957,
+            "longitude": -117.23889818409344
+        },
+        {
+            "name": "Roger's Community Garden",
+            "latitude": 32.87207356646622,
+            "longitude": -117.23945948604583
+        },
+        {
+            "name": "Seventh College Garden",
+            "latitude": 32.88835669374885,
+            "longitude": -117.24256276570148
+        },
+        {
+            "name": "Student Center Garden",
+            "latitude": 32.87751694314954,
+            "longitude": -117.23977442369042
+        },
+        {
+            "name": "Warren Grow",
+            "latitude": 32.88265516913272,
+            "longitude": -117.23349700444089
+        }
+    ]
+}
